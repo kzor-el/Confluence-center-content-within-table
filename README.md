@@ -7,4 +7,4 @@ If the text is to be centered however the default functions in confluence will n
 
 Refer to Confluence Support on steps to add the HTML Macro https://confluence.atlassian.com/conf59/html-macro-792499123.html 
 
-Once the HTML macro has been added use the HTML code here.
+Once the HTML macro has been added use the code in the HTML file.
