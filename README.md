@@ -1,4 +1,4 @@
-# How to center text within a table in Conflience.
+# How to center text and images within a table in Confluence.
 Adding a table in Confluence can help format your content to make ikt more accessible for the reader.
 
 To add a table refer to https://confluence.atlassian.com/conf59/tables-792498782.html.
